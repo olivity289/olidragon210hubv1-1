@@ -463,8 +463,8 @@ HubSection:NewButton("Vhub", " Multi Hub", function()
 end)
 
 HubSection:NewButton("clé vhub", " la clé de vhub", function()
-    setclipboard("ScratchYourBALLS")
-toclipboard("ScratchYourBALLS")
+    setclipboard("FUCKINGYourStepBrother")
+toclipboard("FUCKINGYourStepBrother")
 end)
 
 HubSection:NewButton("IceHub", "les glacons", function()
